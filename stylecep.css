@@ -1,0 +1,95 @@
+* {
+    margin:auto;
+    
+}
+
+header {
+    background-color: #2196F3;
+    background: linear-gradient(#2196F3, #3D5AFE, #0D47A1);
+    height: 200px;
+    text-align: center;
+}
+
+h1 {
+    font-family: verdana;
+    font-size: 2rem;
+    color: #fff;
+    padding: 15px;
+
+}
+
+h2 {
+    font-family: verdana;
+    font-size: 1.2rem;
+    color: #fff; 
+    padding: 15px;
+
+}
+
+
+section#formulario {
+    top: 50px;
+    border: 5px;
+    position: relative;
+    
+}
+
+
+fieldset {
+    border: 5px;
+    padding: 5px;
+    position: relative;
+    
+}
+
+form {
+    width: 200px;
+    height: 270px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+label {
+    display: block;
+    width: 100%;
+    height: auto;
+    padding: 2px;
+}
+
+article, p {
+    list-style: none;
+    padding: 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h3, p {
+    color: #fff;
+    margin: 0;
+    padding: 15px;
+}
+
+input {
+    border: 2px solid black;
+}
+
+i#icon_travel {
+    top: 40px;
+    color: #2196F3;
+    font-size: 64px;
+    position: relative;
+    background-color: #fff;
+    border-radius: 50px 50px 50px;
+}
+
+.button {
+    background-color: #2196F3;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 8% 8% 8% 8%;
+    padding: 10px 64px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
