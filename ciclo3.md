@@ -1,2 +1,0 @@
-# CICLO 3 - NODEJS
-## DESAFIO III
